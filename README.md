@@ -51,4 +51,10 @@
   <li>Pytorch를 사용한 모델링</li>
   <li>Albumentations를 이용한 데이터 증강기법을 통해 적은 데이터셋으로 이미지를 분류 하는 모델</li>
   <li>Timm 라이브러리의 모델 사용(ResNet)</li>
+  <li>7가지의 클래스를 가진 이미지들을 분류</li>
+</ul>
+2023.12 ~ 현재
+<ul><a href='https://github.com/kdk0411/Blur_Image_Classification'>Blur 이미지 분류 및 생성모델</a>
+  <li>2가지 종류의 Blur를 분류</li>
+  <li>각 분류에 대하여 Blur가 지워진 이미지를 생성</li>
 </ul>
