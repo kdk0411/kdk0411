@@ -27,6 +27,11 @@
       <li>Pandas, numpy</li>
     </ul>
   </li>
+  <li>데이터 시각화
+    <ul>
+      <li>MatPlotLib, Cv2</li>
+    </ul>
+  </li>
 </ul>
 
 <h3>프로젝트</h3>
