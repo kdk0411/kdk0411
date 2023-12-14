@@ -44,11 +44,11 @@
 </ul>
 2023.09 ~ 현재
 <ul><a href='https://github.com/kdk0411/Chat_Bot.git'>Chat Bot을 이용한 작업일지 APP</a>
-  <li>Chat Bot을 이용하여 APP 사용자가 데이터를 입력하였을떄 Text를 자동으로 분류하여 입력해주는 기능</li>
+  <li>Chat Bot을 기본으로 하며 정규표현식을 이용하여 APP 사용자가 데이터를 입력하였을떄 Text를 자동으로 분류하여 입력해주는 기능</li>
 </ul>
-2023.10 ~ 현재
-<ul>
-  <li>데이터 증강기법을 통해 적은 데이터셋으로 이미지를 분류 하는 모델</li>
-  <li>여러가지의 증강기법을 이용</li>
-  <li>딥러닝 모델인 ResNet 또는 DNN이용</li>
+2023.11 ~ 2023.12
+<ul><a href='https://github.com/kdk0411/Image_Classifier'>이미지 분류 모델</a>
+  <li>Pytorch를 사용한 모델링</li>
+  <li>Albumentations를 이용한 데이터 증강기법을 통해 적은 데이터셋으로 이미지를 분류 하는 모델</li>
+  <li>Timm 라이브러리의 모델 사용(ResNet)</li>
 </ul>
