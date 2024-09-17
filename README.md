@@ -7,14 +7,19 @@
 <h3>사용 가능 언어 및 스킬</h3>
 <ul>
   <li>Python</li>
-  <li>AI/ML
+  <li>Data Lake
     <ul>
-      <li>Tensorflow, PyTorch</li>
+      <li>AWS S3, MinIO</li>
+    </ul>
+  </li>
+  <li>Data Warehouse
+    <ul>
+      <li>AWS Redshift, SnowFlake, Google BigQuery</li>
     </ul>
   </li>
   <li>DB
     <ul>
-      <li>MySQL, MongoDB</li>
+      <li>MySQL, PostgreSQL, MongoDB</li>
     </ul>
   </li>
   <li>웹 프레임워크
