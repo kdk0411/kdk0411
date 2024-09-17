@@ -19,22 +19,22 @@
   </li>
   <li>DB
     <ul>
-      <li>MySQL, PostgreSQL, MongoDB</li>
+      <li>MySQL, PostgreSQL, MongoDB, Sqlite</li>
     </ul>
   </li>
   <li>웹 프레임워크
     <ul>
-      <li>Flask</li>
+      <li>Django, Flask</li>
     </ul>
   </li>
   <li>데이터 분석
     <ul>
-      <li>Pandas, numpy</li>
+      <li>Spark, Pandas, numpy</li>
     </ul>
   </li>
   <li>데이터 시각화
     <ul>
-      <li>MatPlotLib, Cv2</li>
+      <li>Preset, Superset, MatPlotLib, Cv2</li>
     </ul>
   </li>
 </ul>
