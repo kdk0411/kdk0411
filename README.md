@@ -15,7 +15,7 @@
 |Data|SQL, Airflow, DataWarehouse(Redshift, Snowflake, BigQuery), MinIO|
 |Server & Cloud|Linux(Ubuntu), AWS, GCP|
 |Productivity Tools|GitHub, Docker |
-|Dashboard Tools|Superset, Preset|
+|Dashboard Tools|Superset, Preset, MetaDB|
 
 <h3>프로젝트</h3>
 2023.03 ~ 2023.06
